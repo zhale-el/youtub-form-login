@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: 0;
+}
+body {
+  height: 100vh;
+  background: linear-gradient(175deg, #323ebc, #a616e7);
+}
